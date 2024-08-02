@@ -49,6 +49,7 @@ and just ask the editors to select the category.
 * [Maelstrom 0.11.0: Fast, Clustered, Test Runner -- Now With a New UI](https://maelstrom-software.com/blog/0.11.0/)
 
 * [Rustic Witcher goes open source](https://github.com/bluegroundltd/rustic-witcher)
+* [Update on the `#[diagnostic]` namespace](https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/?utm_source=twir)
 
 ### Observations/Thoughts
 * [Don't Use Preludes And Globs](https://corrode.dev/blog/dont-use-preludes-and-globs/)
